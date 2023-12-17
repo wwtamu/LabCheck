@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5eb2f2f1-7b99-47c7-87c2-e3afbf4eda11" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SIUCMachineAvailabilityService.xsd" MetadataType="Schema" ID="313f5a91-e511-47dd-84c5-06698a2743d5" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SIUCMachineAvailabilityService.disco" MetadataType="Disco" ID="c7621c93-37fd-44b7-96af-307177758406" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?disco" />
+    <MetadataFile FileName="SIUCMacineAvailabilityService.wsdl" MetadataType="Wsdl" ID="8fc46704-08d9-457f-8ce2-31c8c1009271" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?wsdl" />
+    <MetadataFile FileName="SIUCMachineAvailabilityService1.xsd" MetadataType="Schema" ID="a5bc5bbf-2a0b-4204-bb97-29344de1f130" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?xsd=xsd3" />
+    <MetadataFile FileName="SIUCMachineAvailabilityService2.xsd" MetadataType="Schema" ID="2bdc5adc-358f-4a6c-a111-3f87e66459ab" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SIUCMachineAvailabilityService3.xsd" MetadataType="Schema" ID="75b602ac-fa82-40e7-8604-ce8108f11c36" SourceId="1" SourceUrl="http://localhost/SIUCMachineAvailabilityService/SIUCMachineAvailabilityService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
